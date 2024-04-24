@@ -1,4 +1,4 @@
-If you start,
+If you start in terminal,
 
 `uvicorn main:app --reload`
 
