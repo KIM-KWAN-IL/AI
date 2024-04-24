@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+openai
+
+Diary/병신_dir.txt

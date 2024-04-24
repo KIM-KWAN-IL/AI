@@ -1,0 +1,10 @@
+.idea
+env
+
+mongo_test.py
+test.py
+Dockerfile
+__pycache__/
+
+
+config.py
