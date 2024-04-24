@@ -1,0 +1,6 @@
+{
+    "endpoint": "https://minu-textanalysis-001.cognitiveservices.azure.com/",
+    "key": "13a19010838e4957b0af68ec6158243f",
+    "project_name": "sentiment-analysis-001",
+    "deployment_name": "test-deploy-001"
+}
