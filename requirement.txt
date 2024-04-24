@@ -1,0 +1,3 @@
+azure-ai-textanalytics
+uvicorn
+fastapi
