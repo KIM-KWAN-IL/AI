@@ -31,6 +31,7 @@ class DiaryRequest(BaseModel):
     member_id: int
     diary : str
 
+
 @app.post("/diary/")
 async def analyze_sentiment(request: DiaryRequest):
     # 응답으로 사용자로부터 받은 쿼리 파라미터 값을 반환
